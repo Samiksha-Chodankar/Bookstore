@@ -1,3 +1,3 @@
 # Bookstore
-References: www.w3schools.com
-Based  on: Crossword books
+-> References: www.w3schools.com
+-> Based  on: Crossword books
